@@ -1,0 +1,14 @@
+body  {
+  margin: 0;
+  background-color: darkgray;
+  overflow: hidden;
+  text-align: center;
+}
+
+#carCanvas {
+  background-color: lightgray;
+}
+
+#nnCanvas {
+  background-color: black;
+}
